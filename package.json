@@ -1,18 +1,18 @@
 {
-  "name": "date-holidays",
-  "version": "3.23.10",
+  "name": "@dayswaps/date-holidays",
+  "version": "3.23.11",
   "description": "worldwide holidays",
   "keywords": [
     "holidays",
     "world"
   ],
-  "homepage": "https://github.com/commenthol/date-holidays",
+  "homepage": "https://github.com/Dayswaps/date-holidays",
   "bugs": {
-    "url": "https://github.com/commenthol/date-holidays/issues"
+    "url": "https://github.com/Dayswaps/date-holidays/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/commenthol/date-holidays.git"
+    "url": "git+https://github.com/Dayswaps/date-holidays.git"
   },
   "license": "(ISC AND CC-BY-3.0)",
   "author": "commenthol <commenthol@gmail.com>",
