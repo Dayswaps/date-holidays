@@ -95,11 +95,7 @@
     "end": "2019-09-01T22:00:00.000Z",
     "name": "Deň Ústavy",
     "type": "public",
-<<<<<<< HEAD
     "rule": "09-01 since 1994 and prior to 2024",
-=======
-    "rule": "09-01 prior to 2024",
->>>>>>> 2d8246c9c (changed 1.9 SK holiday type to observance since 2024)
     "_weekday": "Sun"
   },
   {
