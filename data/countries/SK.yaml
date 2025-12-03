@@ -72,11 +72,8 @@ holidays:
           sk: Sviatok Panny Márie Sedembolestnej
           en: Day of Our Lady of the Seven Sorrows
         type: observance
-      11-01 prior to 2025:
+      11-01:
         _name: 11-01
-      11-01 since 2025:
-        _name: 11-01
-        type: observance
       11-17 prior to 2025:
         name:
           sk: Deň boja za slobodu a demokraciu

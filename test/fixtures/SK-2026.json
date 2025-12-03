@@ -112,8 +112,8 @@
     "start": "2026-10-31T23:00:00.000Z",
     "end": "2026-11-01T23:00:00.000Z",
     "name": "Sviatok všetkých svätých",
-    "type": "observance",
-    "rule": "11-01 since 2025",
+    "type": "public",
+    "rule": "11-01",
     "_weekday": "Sun"
   },
   {
