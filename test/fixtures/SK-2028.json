@@ -13,7 +13,7 @@
     "start": "2028-01-05T23:00:00.000Z",
     "end": "2028-01-06T23:00:00.000Z",
     "name": "Zjavenie Pána",
-    "type": "observance",
+    "type": "public",
     "rule": "01-06",
     "_weekday": "Thu"
   },
@@ -49,7 +49,7 @@
     "start": "2028-04-30T22:00:00.000Z",
     "end": "2028-05-01T22:00:00.000Z",
     "name": "Sviatok práce",
-    "type": "observance",
+    "type": "public",
     "rule": "05-01 since 2025",
     "_weekday": "Mon"
   },
@@ -76,7 +76,7 @@
     "start": "2028-07-04T22:00:00.000Z",
     "end": "2028-07-05T22:00:00.000Z",
     "name": "Sviatok svätého Cyrila a Metoda",
-    "type": "observance",
+    "type": "public",
     "rule": "07-05 since 2025",
     "_weekday": "Wed"
   },
@@ -85,7 +85,7 @@
     "start": "2028-08-28T22:00:00.000Z",
     "end": "2028-08-29T22:00:00.000Z",
     "name": "Výročie Slovenského národného povstania",
-    "type": "observance",
+    "type": "public",
     "rule": "08-29 since 2025",
     "_weekday": "Tue"
   },

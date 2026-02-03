@@ -13,7 +13,7 @@
     "start": "2021-01-05T23:00:00.000Z",
     "end": "2021-01-06T23:00:00.000Z",
     "name": "Zjavenie Pána",
-    "type": "observance",
+    "type": "public",
     "rule": "01-06",
     "_weekday": "Wed"
   },

@@ -16,7 +16,6 @@ holidays:
           sk: Deň vzniku Slovenskej republiky
       01-06:
         _name: 01-06
-        type: observance
       easter -2:
         _name: easter -2
       easter:
@@ -25,7 +24,6 @@ holidays:
         _name: easter 1
       05-01 since 2025:
         _name: 05-01
-        type: observance
       05-01 prior to 2025:
         _name: 05-01
       05-08 prior to 2025:
@@ -48,7 +46,6 @@ holidays:
         name:
           sk: Sviatok svätého Cyrila a Metoda
           en: Saints Cyril and Methodius Day
-        type: observance
       08-29 prior to 2025:
         name:
           sk: Výročie Slovenského národného povstania
@@ -57,7 +54,6 @@ holidays:
         name:
           sk: Výročie Slovenského národného povstania
           en: Slovak National Uprising anniversary
-        type: observance
       09-01 since 1994 and prior to 2024:
         _name: Constitution Day
       09-01 since 2024:
