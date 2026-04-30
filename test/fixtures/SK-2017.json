@@ -50,7 +50,7 @@
     "end": "2017-05-01T22:00:00.000Z",
     "name": "Sviatok práce",
     "type": "public",
-    "rule": "05-01 prior to 2025",
+    "rule": "05-01",
     "_weekday": "Mon"
   },
   {
@@ -59,7 +59,7 @@
     "end": "2017-05-08T22:00:00.000Z",
     "name": "Deň víťazstva nad fašizmom",
     "type": "public",
-    "rule": "05-08 prior to 2025",
+    "rule": "05-08",
     "_weekday": "Mon"
   },
   {

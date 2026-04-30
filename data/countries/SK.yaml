@@ -22,19 +22,12 @@ holidays:
         _name: easter
       easter 1:
         _name: easter 1
-      05-01 since 2025:
+      05-01:
         _name: 05-01
-      05-01 prior to 2025:
-        _name: 05-01
-      05-08 prior to 2025:
+      05-08:
         name:
           sk: Deň víťazstva nad fašizmom
           en: Day of victory over fascism
-      05-08 since 2025:
-        name:
-          sk: Deň víťazstva nad fašizmom
-          en: Day of victory over fascism
-        type: observance
       2nd sunday in May:
         _name: Mothers Day
         type: observance
