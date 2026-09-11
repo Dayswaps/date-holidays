@@ -104,7 +104,7 @@
     "end": "2016-09-15T22:00:00.000Z",
     "name": "Sviatok Panny Márie Sedembolestnej",
     "type": "public",
-    "rule": "09-15 prior to 2025",
+    "rule": "09-15",
     "_weekday": "Thu"
   },
   {

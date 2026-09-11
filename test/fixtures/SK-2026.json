@@ -103,8 +103,8 @@
     "start": "2026-09-14T22:00:00.000Z",
     "end": "2026-09-15T22:00:00.000Z",
     "name": "Sviatok Panny Márie Sedembolestnej",
-    "type": "observance",
-    "rule": "09-15 since 2025",
+    "type": "public",
+    "rule": "09-15",
     "_weekday": "Tue"
   },
   {

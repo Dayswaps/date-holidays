@@ -52,15 +52,10 @@ holidays:
       09-01 since 2024:
         _name: Constitution Day
         type: observance
-      09-15 prior to 2025:
+      09-15:
         name:
           sk: Sviatok Panny Márie Sedembolestnej
           en: Day of Our Lady of the Seven Sorrows
-      09-15 since 2025:
-        name:
-          sk: Sviatok Panny Márie Sedembolestnej
-          en: Day of Our Lady of the Seven Sorrows
-        type: observance
       11-01:
         _name: 11-01
       11-17 prior to 2025:
