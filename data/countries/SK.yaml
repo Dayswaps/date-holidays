@@ -54,7 +54,7 @@ holidays:
         type: observance
       09-15:
         name:
-          sk: Sviatok Panny Márie Sedembolestnej
+          sk: Panny Márie Sedembolestnej
           en: Day of Our Lady of the Seven Sorrows
       11-01:
         _name: 11-01
